@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
     
-      <ExploreContainer name="linda &&" />
+      <ExploreContainer name="linda - 12" />
     </ion-content>
   </ion-page>
 </template>
